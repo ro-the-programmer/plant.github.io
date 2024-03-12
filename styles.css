@@ -5,7 +5,7 @@ header{
     font-size: larger;
 }
 div{
-    border:5px;
+    border-width:5px;
     border-color:chartreuse;
 }
 h1{
