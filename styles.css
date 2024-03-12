@@ -5,6 +5,8 @@ header{
     font-size: larger;
 }
 div{
+    margin:70px;
+    border-style:solid;
     border-width:5px;
     border-image:url(images/leaves-background-nature-yellow-preview.jpg);
 }
