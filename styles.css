@@ -6,7 +6,7 @@ header{
 }
 div{
     border-width:5px;
-    border-color:chartreuse;
+    border-image:url(images/leaves-background-nature-yellow-preview.jpg);
 }
 h1{
     font-size: large;
