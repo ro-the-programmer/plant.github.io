@@ -1,14 +1,16 @@
 body{
     margin:5px;
     background-image:url(images/leaves-background-nature-yellow-preview.jpg);
+    background-repeat:repeat-x;
 }
 header{
-    font-size: larger;
+    font-size: 70;
     text-align: center;
     font-weight: bold;
 }
 div{
     margin:70px;
+    padding:10px;
     border-style:solid;
     border-width:5px;
     border-color:chartreuse;
@@ -16,7 +18,7 @@ div{
 
 }
 h1{
-    font-size: large;
+    font-size: 60;
     text-align: center;
     font-weight: bold;
 }
