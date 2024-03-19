@@ -4,7 +4,7 @@ body{
     background-repeat:repeat-x;
 }
 header{
-    font-size: 70;
+    font-size: 50;
     text-align: center;
     font-weight: bold;
 }
@@ -18,7 +18,7 @@ div{
 
 }
 h1{
-    font-size: 60;
+    font-size: 40;
     text-align: center;
     font-weight: bold;
 }
