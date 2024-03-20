@@ -26,3 +26,15 @@ h1{
 a{
     text-align:center;
 }
+ul{
+    margin:70px;
+    padding:10px;
+    border-style:solid;
+    border-width:5px;
+    border-color:chartreuse;
+    background-color: floralwhite;
+}
+li{
+    display:inline;
+    padding:10px;
+}
