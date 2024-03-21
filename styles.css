@@ -66,3 +66,12 @@ li a:hover{
     background-color: aliceblue;
     color: black;
   }
+  .dropdown{
+    background-color:chocolate;
+  }
+  .dropdown-content{
+    background-color: rgb(235, 152, 58);
+  }
+  .dropdown:active .dropdown-content{
+    display:none;
+  }
