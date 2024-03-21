@@ -30,11 +30,8 @@ ul{
     border-width:5px;
     border-color:chartreuse;
     background-color: floralwhite;
-    list-style-type: none;
 }
 li{
-    display:inline;
-    padding:10px;
 }
 li a:hover{
     background-color: aliceblue;
@@ -75,4 +72,7 @@ li a:hover{
   }
  .show{
     display:inline;
+ }
+ button{
+    background-color: rgb(231, 92, 6);
  }
