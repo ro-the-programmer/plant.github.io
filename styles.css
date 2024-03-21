@@ -66,11 +66,9 @@ li a:hover{
     background-color:chocolate;
   }
   .dropdown-content{
-    background-color: rgb(235, 152, 58);
     display: none;
   }
  .show{
-  background-color: rgb(235, 152, 58);
     display:inline;
  }
  button{
@@ -80,5 +78,7 @@ li a:hover{
     margin:0px;
  }
  .a{
-  background-color: rgb(231, 92, 6);
+  background-color: rgb(249, 168, 118);
+  border:2px;
+  border-color: brown;
  }
