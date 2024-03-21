@@ -70,6 +70,7 @@ li a:hover{
     display: none;
   }
  .show{
+  background-color: rgb(235, 152, 58);
     display:inline;
  }
  button{
