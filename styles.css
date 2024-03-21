@@ -1,5 +1,5 @@
 body{
-   background-image:linear-gradient(gold, aliceblue);
+   background-image:linear-gradient(rgb(255, 230, 194),gold);
 }
 header{
     font-size: 50;
