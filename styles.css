@@ -74,5 +74,5 @@ li a:hover{
     display: none;
   }
   .dropdown:active .dropdown-content{
-    display:none;
+    display:block;
   }
