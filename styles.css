@@ -1,5 +1,5 @@
 body{
-   background-color:linear-gradient(gold, aliceblue);
+   background-image:linear-gradient(gold, aliceblue);
 }
 header{
     font-size: 50;
