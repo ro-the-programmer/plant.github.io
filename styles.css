@@ -74,4 +74,7 @@ li a:hover{
  }
  button{
     background-color: rgb(231, 92, 6);
+    border:0px;
+    padding:0px;
+    margin:0px;
  }
