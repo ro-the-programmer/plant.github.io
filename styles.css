@@ -81,4 +81,6 @@ li a:hover{
   background-color: rgb(249, 168, 118);
   border:2px;
   border-color: brown;
+  margin:5px;
+  padding:2px;
  }
