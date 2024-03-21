@@ -1,8 +1,5 @@
 body{
-    background-image:url(images/leaves-background-nature-yellow-preview.jpg);
-    background-repeat:repeat-y;
-    background-size: auto;
-    background-position: top;
+   background-color: gold;
 }
 header{
     font-size: 50;
