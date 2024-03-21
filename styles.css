@@ -73,6 +73,6 @@ li a:hover{
     background-color: rgb(235, 152, 58);
     display: none;
   }
-  .dropdown:active .dropdown-content{
-    display:block;
-  }
+ .show{
+    display:contents;
+ }
