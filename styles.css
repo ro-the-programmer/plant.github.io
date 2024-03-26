@@ -85,3 +85,6 @@ li a:hover{
   margin:5px;
   padding:2px;
  }
+ img{
+  object-position: top;
+ }
