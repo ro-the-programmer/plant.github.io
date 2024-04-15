@@ -72,8 +72,8 @@ li a:hover{
     display:inline;
  }
  button{
-    background-color: rgb(231, 92, 6);
-    border:0px;
+    border:2px;
+    border-color: rgb(231, 92, 6);
     padding:2px;
     margin:0px;
     font-size: 16;
