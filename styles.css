@@ -87,3 +87,7 @@ li a:hover{
  img{
   object-position: top;
  }
+ .float
+ {
+  float:right;
+ }
