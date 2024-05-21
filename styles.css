@@ -58,6 +58,8 @@ li a:hover{
   }
   .dropdown-content{
     display: none;
+    border: 2px;
+    border-color: rgb(231, 92, 6);
   }
  .show{
     display:inline;
