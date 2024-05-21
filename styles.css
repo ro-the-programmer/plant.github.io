@@ -53,8 +53,6 @@ li a:hover{
         background-color: aliceblue;
         color: black;
       }
-  .dropdown{
-    background-color:rgb(231, 92, 6);
   }
   .dropdown-content{
     display: none;
