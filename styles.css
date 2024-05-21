@@ -85,7 +85,9 @@ li a:hover{
   padding:2px;
  }
  img{
-  object-position: top;
+  object-position: middle;
+  border: 2px;
+  border-color: rgb(231, 92, 6);
  }
  .float
  {
