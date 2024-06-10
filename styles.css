@@ -76,7 +76,7 @@ li a:hover{
   padding:2px;
  }
  img{
-  object-position: middle;
+  float:right;
   border: 2px;
   border-color: rgb(231, 92, 6);
  }
